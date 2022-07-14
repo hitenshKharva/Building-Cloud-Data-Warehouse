@@ -1,4 +1,4 @@
-# Project: Building Cloud Data Warehouse
+# Building Cloud Data Warehouse
 
 This project builds an **ELT pipeline** that extracts data from **S3**, stages them in **Redshift**, and transforms data into a set of **dimensional tables** for  analytics team to continue finding insights in what songs their users are listening to.
 
